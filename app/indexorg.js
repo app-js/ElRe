@@ -7,7 +7,7 @@ import './app.global.css';
 
 const store = configureStore();
 
-console.log('-->In indexorg.js render');
+console.log('-->In indexorg.js');
 
 render(
   <AppContainer>

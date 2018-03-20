@@ -5,7 +5,7 @@ import Start from './containers/Start';
 //import { configureStore, history } from './store/configureStore';
 import './app.global.css';
 
-console.log('-->In index.js render');
+console.log('-->In index.js');
 
 render(
   <AppContainer>
